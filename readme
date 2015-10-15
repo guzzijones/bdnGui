@@ -1,0 +1,16 @@
+linux install and compile
+
+for gui
+1. install code:blocks
+2. install wxsmith
+3. install wxwidgets
+
+build.sh will build program using wxwidgets 3.0
+
+
+windows:
+1. install code:blocks
+2. install wxsmith
+3. install wxwidgets
+
+pull code from https://ubuntumediagz.com/svn/bdn using svn client
